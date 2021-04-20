@@ -62,7 +62,7 @@
     "koa-send": "5.0.0",
     "koa-static": "5.0.0",
     "level-ts": "2.0.6",
-    "monaco-editor": "0.20.0",
+    "monaco-editor": "0.23.0",
     "monaco-editor-textmate": "2.2.2",
     "monaco-textmate": "3.0.1",
     "onigasm": "2.2.4",
