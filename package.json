@@ -35,7 +35,7 @@
     "@types/d3-selection": "1.4.2",
     "@types/minio": "7.0.6",
     "@types/pdfjs-dist": "2.7.1",
-    "@types/react-splitter-layout": "3.0.0",
+    "@types/react-splitter-layout": "3.0.1",
     "aphrodite": "2.4.0",
     "aws-sdk": "2.892.0",
     "axios": "0.19.2",
