@@ -119,7 +119,7 @@
     "@types/koa-router": "7.4.1",
     "@types/koa-send": "4.1.2",
     "@types/koa-static": "4.0.1",
-    "@types/lodash": "4.14.168",
+    "@types/lodash": "4.14.169",
     "@types/marked": "0.6.5",
     "@types/mini-css-extract-plugin": "0.9.1",
     "@types/node-fetch": "2.5.7",
