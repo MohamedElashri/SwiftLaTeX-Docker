@@ -136,7 +136,7 @@
     "@types/sanitize-html": "1.27.2",
     "@types/shortid": "0.0.29",
     "@types/stoppable": "1.1.0",
-    "@types/webpack": "4.41.27",
+    "@types/webpack": "4.41.28",
     "@types/webpack-dev-middleware": "2.0.4",
     "babel-jest": "24.9.0",
     "babel-loader": "8.2.2",
