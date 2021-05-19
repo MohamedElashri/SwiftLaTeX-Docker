@@ -34,7 +34,7 @@
     "@koa/cors": "2.2.3",
     "@types/d3-selection": "1.4.2",
     "@types/minio": "7.0.6",
-    "@types/pdfjs-dist": "2.7.1",
+    "@types/pdfjs-dist": "2.7.2",
     "@types/react-splitter-layout": "3.0.1",
     "aphrodite": "2.4.0",
     "aws-sdk": "2.900.0",
