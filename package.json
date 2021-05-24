@@ -103,7 +103,7 @@
     "@types/dedent": "0.7.0",
     "@types/enzyme": "3.10.5",
     "@types/enzyme-adapter-react-16": "1.0.6",
-    "@types/enzyme-to-json": "1.5.3",
+    "@types/enzyme-to-json": "1.5.4",
     "@types/escape-html": "1.0.1",
     "@types/escape-string-regexp": "1.0.0",
     "@types/graphql": "14.5.0",
