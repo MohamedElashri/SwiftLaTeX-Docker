@@ -137,7 +137,7 @@
     "@types/shortid": "0.0.29",
     "@types/stoppable": "1.1.0",
     "@types/webpack": "4.41.29",
-    "@types/webpack-dev-middleware": "2.0.4",
+    "@types/webpack-dev-middleware": "2.0.7",
     "babel-jest": "24.9.0",
     "babel-loader": "8.2.2",
     "babel-plugin-dynamic-import-node": "2.3.3",
