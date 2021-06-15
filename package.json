@@ -126,7 +126,7 @@
     "@types/prettier": "1.19.1",
     "@types/puppeteer": "1.20.6",
     "@types/query-string": "6.2.0",
-    "@types/react": "16.14.7",
+    "@types/react": "16.14.8",
     "@types/react-copy-to-clipboard": "4.3.0",
     "@types/react-dom": "16.9.8",
     "@types/react-helmet": "5.0.16",
