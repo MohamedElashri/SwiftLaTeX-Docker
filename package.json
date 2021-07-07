@@ -99,7 +99,7 @@
     "@babel/preset-typescript": "7.14.5",
     "@types/aphrodite": "0.5.13",
     "@types/classnames": "2.2.10",
-    "@types/cookie": "0.4.0",
+    "@types/cookie": "0.4.1",
     "@types/dedent": "0.7.0",
     "@types/enzyme": "3.10.5",
     "@types/enzyme-adapter-react-16": "1.0.6",
