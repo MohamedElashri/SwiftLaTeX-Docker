@@ -1,5 +1,6 @@
 
-WORKDIR /usr/src/app # Create app directory
+WORKDIR /usr/src/app 
+# Create app directory
 
 
 # Install app dependencies
