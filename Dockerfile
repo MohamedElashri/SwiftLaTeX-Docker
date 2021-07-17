@@ -1,6 +1,6 @@
 
-# Create app directory
-WORKDIR /usr/src/app
+WORKDIR /usr/src/app # Create app directory
+
 
 # Install app dependencies
 # A wildcard is used to ensure both package.json AND package-lock.json are copied
