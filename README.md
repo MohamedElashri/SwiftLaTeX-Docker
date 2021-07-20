@@ -7,11 +7,13 @@ SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 
 To deploy run the following command on your docker installed machine. 
 
-``` docker run -it  -p 3011:3011 melashri/latex:v1``` 
+``` bash
+docker run -it  -p 3011:3011 melashri/latex:v1
+``` 
 
 or via `docker-compose.yml` 
 
-```
+``` bash
 version: "3"
 
 services:
