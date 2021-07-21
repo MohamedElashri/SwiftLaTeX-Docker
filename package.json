@@ -132,7 +132,7 @@
     "@types/react-helmet": "6.1.1",
     "@types/react-router-dom": "5.1.8",
     "@types/react-textarea-autosize": "4.3.6",
-    "@types/react-virtualized": "9.21.11",
+    "@types/react-virtualized": "9.21.12",
     "@types/sanitize-html": "1.27.2",
     "@types/shortid": "0.0.29",
     "@types/stoppable": "1.1.0",
