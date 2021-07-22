@@ -1,4 +1,4 @@
-name: ci
+name: Multi_platform_Build
 
 on:
   push:
