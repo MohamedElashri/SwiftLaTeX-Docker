@@ -3,7 +3,7 @@ name: Multi_platform_Build
 on:
   push:
     branches:
-      - 'master'
+      - 'main'
 
 jobs:
   docker:
