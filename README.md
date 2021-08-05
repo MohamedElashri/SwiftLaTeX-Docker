@@ -1,5 +1,4 @@
-[![Build LaTeX document](https://github.com/MohamedElashri/ME-Resume/actions/workflows/compile_action.yml/badge.svg)](https://github.com/MohamedElashri/ME-Resume/actions/workflows/compile_action.yml)
-
+[![Docker Image](https://github.com/MohamedElashri/SwiftLaTeX-Docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/MohamedElashri/SwiftLaTeX-Docker/actions/workflows/docker-image.yml)
 ## SwiftLaTeX-Docker
 
 
