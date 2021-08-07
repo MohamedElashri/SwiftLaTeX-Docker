@@ -1,4 +1,5 @@
 [![Docker Image](https://github.com/MohamedElashri/SwiftLaTeX-Docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/MohamedElashri/SwiftLaTeX-Docker/actions/workflows/docker-image.yml)
+[![CodeQL](https://github.com/MohamedElashri/SwiftLaTeX-Docker/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/MohamedElashri/SwiftLaTeX-Docker/actions/workflows/codeql-analysis.yml)
 ## SwiftLaTeX-Docker
 
 
