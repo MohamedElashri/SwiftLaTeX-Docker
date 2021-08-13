@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+    image: melashri/latex:latest
+    #build: . # to build the image
+    container_name: swiftlatex
+    ports:
+     - "3011:3011"
