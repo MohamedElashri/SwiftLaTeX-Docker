@@ -52,7 +52,7 @@
     "js-cookie": "2.2.1",
     "jsesc": "2.5.2",
     "json-to-ast": "2.1.0",
-    "jszip": "3.7.0",
+    "jszip": "3.7.1",
     "koa": "2.13.1",
     "koa-body": "4.2.0",
     "koa-compose": "4.1.0",
