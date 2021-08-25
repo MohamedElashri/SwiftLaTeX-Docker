@@ -50,7 +50,7 @@
     "hoist-non-react-statics": "3.3.2",
     "idb-keyval": "3.2.0",
     "js-cookie": "2.2.1",
-    "jsesc": "2.5.2",
+    "jsesc": "3.0.2",
     "json-to-ast": "2.1.0",
     "jszip": "3.7.1",
     "koa": "2.13.1",
