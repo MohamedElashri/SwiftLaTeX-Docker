@@ -149,7 +149,7 @@
     "dedent": "0.7.0",
     "del-cli": "4.0.1",
     "enzyme": "3.11.0",
-    "enzyme-adapter-react-16": "1.15.2",
+    "enzyme-adapter-react-16": "1.15.6",
     "enzyme-to-json": "3.4.4",
     "file-loader": "6.2.0",
     "if-env": "1.0.4",
