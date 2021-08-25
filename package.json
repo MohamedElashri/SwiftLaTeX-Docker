@@ -114,7 +114,7 @@
     "@types/koa": "2.13.3",
     "@types/koa-bodyparser": "4.3.2",
     "@types/koa-compose": "3.2.5",
-    "@types/koa-compress": "2.0.9",
+    "@types/koa-compress": "4.0.3",
     "@types/koa-mount": "4.0.1",
     "@types/koa-router": "7.4.4",
     "@types/koa-send": "4.1.3",
