@@ -63,7 +63,7 @@
     "koa-static": "5.0.0",
     "level-ts": "2.1.0",
     "monaco-editor": "0.27.0",
-    "monaco-editor-textmate": "2.2.2",
+    "monaco-editor-textmate": "3.0.0",
     "monaco-textmate": "3.0.1",
     "onigasm": "2.2.5",
     "pdfjs-dist": "2.9.359",
