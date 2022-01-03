@@ -101,7 +101,7 @@
     "@types/classnames": "2.3.0",
     "@types/cookie": "0.4.1",
     "@types/dedent": "0.7.0",
-    "@types/enzyme": "3.10.10",
+    "@types/enzyme": "3.10.11",
     "@types/enzyme-adapter-react-16": "1.0.6",
     "@types/enzyme-to-json": "1.5.4",
     "@types/escape-html": "1.0.1",
