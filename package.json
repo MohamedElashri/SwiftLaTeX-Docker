@@ -37,7 +37,7 @@
     "@types/pdfjs-dist": "2.10.377",
     "@types/react-splitter-layout": "3.0.2",
     "aphrodite": "2.4.0",
-    "aws-sdk": "2.975.0",
+    "aws-sdk": "2.1181.0",
     "axios": "0.24.0",
     "build-number-generator": "1.0.0",
     "classnames": "2.3.1",
